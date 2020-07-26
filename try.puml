@@ -1,0 +1,11 @@
+@startuml
+class java.util.ArrayList
+class java.util.Scanner
+class project_ov.HangMan
+class project_ov.Project_OV
+class project_ov.Sudoku
+class project_ov.TicTacToe
+class project_ov.WordSearch
+project_ov.WordSearch ..> java.util.ArrayList
+project_ov.WordSearch ..> java.util.Scanner
+@enduml
