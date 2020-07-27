@@ -4,11 +4,14 @@
 
 A Console Based Game including 
 ### Tic Tac Toe
-  2 Players 
-  vs Computer
+- 2 Players 
+- vs Computer
   
 ### Sudoku
-  with 3 difficulty levels
+ With 3 difficulty levels
+- Easy 6 x 9
+- Intermediate 9 X 9
+- Hard 9 x 9
   
 ### Hangman
   Word Guessing game
